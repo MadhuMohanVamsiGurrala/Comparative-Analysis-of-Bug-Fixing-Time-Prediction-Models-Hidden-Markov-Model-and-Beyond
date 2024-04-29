@@ -1,0 +1,2 @@
+(https://www.kaggle.com/datasets/azizullah444/firefox-bugs)
+This dataset was obtained from the Kaggle website and describes the Firefox bugs. Firefox bugs data were selected for a 8 year period ranging from 2015 to 2022. It contains information about 8063 bugs.

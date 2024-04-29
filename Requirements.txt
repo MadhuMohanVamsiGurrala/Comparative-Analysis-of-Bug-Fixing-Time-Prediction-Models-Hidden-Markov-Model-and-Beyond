@@ -1,0 +1,23 @@
+Sotware Requirements:
+
+Environment : Python
+Tool :  Jupyter Notebook
+Version : 3.9.13
+Operating System : Windows 10
+Edition : Windows 10 Home Single Language
+Serial Number : FV3DFT2
+
+Python Library Versions:
+
+Numpy  : 1.21.5
+Pandas : 1.4.4
+hmmlearn 0.2.8
+scikit learn 1.0.2
+matplotlib 3.5.2
+
+Hardware Requirements:
+
+Processor : Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz   2.30 GHz
+RAM : 4.00 GB (3.87 GB usable)
+Storage : 1 TB
+System Type : 64-bit operating system, x64-based processor
